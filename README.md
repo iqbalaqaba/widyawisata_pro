@@ -22,12 +22,13 @@ This website is designed by [Iqbal Aqaba] (http://github.com/iqbalaqaba) using [
 - [ ] Maintain fixed design
 
 ## Credit & Plugin used
-- Licensed under [GNU GENERAL PUBLIC LICENSE 3.0](https://github.com/iqbalaqaba/widyawisata_pro/blob/gh-pages/License.md)
+- No plugin used yet
 
 ## Contact
 Email : [iqbalaqaba96@gmail.com] (mailto:iqbalaqaba96@gmail.com). <br>
 Facebook : [Iqbal Aqaba] (facebook.com/iqbal.aqaba)
 
 ##License
+- Licensed under [GNU GENERAL PUBLIC LICENSE 3.0](https://github.com/iqbalaqaba/widyawisata_pro/blob/gh-pages/License.md)
 
 
