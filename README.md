@@ -3,6 +3,13 @@
 This is an widyawisata vocational highschool project. This project started at October 20,2016. <br>
 This website is designed by [Iqbal Aqaba] (http://github.com/iqbalaqaba) using [Bootstrap] (http://getbootstrap.com) engine and following rules from [ Google Material Design ] (https://material.google.com/).
 
+##Progress
+- [x] Drafting
+- [ ] Testing draft
+- [ ] Restyling Draft
+- [ ] Main design
+- [ ] Testing
+- [ ] Posting
 
 ## Task list 
 - [x] Creating Draft
