@@ -22,7 +22,7 @@ This website is designed by [Iqbal Aqaba] (http://github.com/iqbalaqaba) using [
 - [ ] Maintain fixed design
 
 ## Credit & Plugin used
-- No plugin used yet
+- [Facebook Brand Website] (http://en.facebookbrand.com/) for page inspiration
 
 ## Contact
 Email : [iqbalaqaba96@gmail.com] (mailto:iqbalaqaba96@gmail.com). <br>
