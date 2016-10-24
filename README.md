@@ -21,8 +21,9 @@ This website is designed by [Iqbal Aqaba] (http://github.com/iqbalaqaba) using [
 - [ ] Launching fixed design to main website
 - [ ] Maintain fixed design
 
-## Credit & Plugin used
-- [Facebook Brand Website] (http://en.facebookbrand.com/) for page inspiration
+## Inspiration
+- [Facebook Brand Website] (http://en.facebookbrand.com/)
+- [Capital of Children website] (http://www.capitalofchildren.com/)
 
 ## Contact
 Email : [iqbalaqaba96@gmail.com] (mailto:iqbalaqaba96@gmail.com). <br>
