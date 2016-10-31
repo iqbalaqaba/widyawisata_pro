@@ -27,7 +27,7 @@ This website is designed by [Iqbal Aqaba] (http://github.com/iqbalaqaba) using [
 - [ ] Maintain fixed design
 
 ## Issues
-- There's a gap between <i> jumbotron </i> and <i> about part </i>.
+- There's a gap between <i> jumbotron </i> and <i> about part </i>. [Issues #2] (https://github.com/iqbalaqaba/widyawisata_pro/issues/2)
 
 ## Inspiration
 - [Facebook Brand Website] (http://en.facebookbrand.com/)
