@@ -2,7 +2,7 @@
 <head>
 
 <!--
-Design Name      : SMK Widya Wisata Website design
+Design Name      : SMK Widya Wisata site design
 Design Coded     : 03-10-2016
 Design Finished  : N/A
 Style            : Materialism, Minimalist and Responsive
@@ -10,6 +10,9 @@ Designer         : Iqbal Aqaba Putera
 Designer url     : www.iqbalaqaba.github.io
 License          : This design is licensed under the Creative Commons Attribution 4.0 License, which permits both personal and commercial use.
 -->
+
+<!-- IMPORTANT META TAGS EVER -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -43,6 +46,10 @@ li a{
   font-size: 15px;
 }
 
+li{
+
+}
+
 .dropdown-menu{
 		border-radius: 3px;
 	}
@@ -56,8 +63,8 @@ li a{
   min-height: 55px;  
 }
 .badge{
-  background-color: #dd2c00;
-  border-color: #dd2c00;
+  background-color: #fafafa;
+  border-color: #fafafa;
 }
 
 /* Jumbotron styling */
@@ -137,7 +144,8 @@ li a{
 
 .fasilitas h3, .fasilitas h5{
   color: #fafafa;
-}</style>
+}
+</style>
 </head>
 <body>
 
@@ -162,7 +170,9 @@ li a{
       <div class="collapse navbar-collapse" id="menu-collapse">
         <ul class="nav navbar-nav navbar-right text-center">
           <li class="active"><a href="#"> Beranda <span class="sr-only">(current)</span></a></li>
-          <li><a href="#"> Berita <span class="label label-danger"> baru </span> </a></li>
+          <li ><a href="#kompetisi"> Program Studi</a></li>
+          <li ><a href="#fasilitas"> Fasilitas </a></li>
+          <li><a href="#blog"> Berita <span class="label label-danger"> baru </span> </a></li>
           <!-- Profile dropdown Start -->
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Profil <span class="caret"></span></a>
@@ -172,6 +182,7 @@ li a{
             </ul>
           </li>
           <!-- Profile dropdown end -->
+          <li><a href="#"> Galeri </a></li>
           <li><a href="#"> Kontak </a></li>
         </ul>
       </div>
@@ -195,7 +206,7 @@ li a{
 <!-- Info part start here -->
 <div class="info" id="info">
   <div class="container-fluid">
-      <div class="col-lg-6 col-md-12 col-xs-12 info">
+      <div class="col-lg-6 col-md-12 col-xs-12 info" style="padding-bottom: 5px;">
         <h3> Tentang </h3>
         <hr align="left" style="width: 30%; border: 2px solid white;">
         <p> Sekolah Menengah Kejuruan Widya wisata adalah satu satunya sekolah vokasi di sragen dengan jurusan Pariwisata dan perhotelan yang berdiri pada tanggal 15 April 2007. Lokasi SMK Widya Wisata ada di Jalan Lorem Ipsum, nomor 31, Sragen, Jawa Tengah. </p>
@@ -207,9 +218,9 @@ li a{
           <img src="http://placehold.it/290x200" alt="logo-thumb" class="img-responsive">
            <div class="caption">
             <h4 class="text-center"> <strong> Visi & Misi </strong> </h4>
-            <p style="font-size: 15px;"> Lihat secara detail visi dan misi dari SMK Widya Wisata. </p>
+            <p  class="text-center" style="font-size: 15px;"> Lihat secara detail visi dan misi dari SMK Widya Wisata. </p>
             <p style="padding-top: 10px;"> 
-              <a href="#" class="btn btn-default btn-lg btn-block btn-success"> Lihat lebih lanjut <i class="fa fa-angle-right" aria-hidden="true"></i> </a>
+              <a href="#" class="btn btn-default btn-lg btn-block btn-success"> Baca lebih lanjut </a>
             </p>
            </div>
         </div>
@@ -219,9 +230,9 @@ li a{
           <img src="http://placehold.it/290x200" alt="logo-thumb" class="img-responsive">
            <div class="caption">
             <h4 class="text-center"> <strong> Profil Sekolah </strong> </h4>
-            <p style="font-size: 15px;"> Sejarah dan info mendetail tentang SMK Widya Wisata </p>
+            <p  class="text-center" style="font-size: 15px;"> Sejarah dan info mendetail tentang SMK Widya Wisata </p>
             <p style="padding-top: 10px;"> 
-              <a href="#" class="btn btn-default btn-lg btn-block btn-success"> Lihat lebih lanjut <i class="fa fa-angle-right" aria-hidden="true"></i> </a>
+              <a href="#" class="btn btn-default btn-lg btn-block btn-success"> Baca lebih lanjut </a>
             </p>
            </div>
         </div>
@@ -257,6 +268,60 @@ li a{
     </ul>
 </div>
 <!-- Kompetisi part end here -->
+<!-- Fasilitas part start here 
+<div class="col-lg-12 fasilitas" id="fasilitas" style="background-color: #1565c0;">
+  <div class="col-lg-6 col-xs-12 col-md-12">
+    <h3> <STRONG> Fasilitas </STRONG> </h3>
+    <h5 style="font-weight: 300;"> Fasilitas pendukung di SMK Widya Wisata</h5>
+    <br>
+      <ul>
+        <li> Suasana Sekolah Yang Nyaman Dan Asri  </li>
+        <li> Ruang Tata Usaha </li>
+        <li> Ruang Guru </li>
+        <li> Perpustakaan </li>
+        <li> Kantin </li>
+        <li> Tempat parkir yang luas </li>
+      </ul>
+    </div>
+  </div>
+<!--
+    <div class="col-lg-6 hidden-xs hidden-md">
+      <div class="thumbnail">
+      <!-- Carousel --
+        <div id="caoursel-preview" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -
+          <ol class="carousel-indicators">
+            <li data-target="#carousel-preview" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-preview" data-slide-to="1"></li>
+            <li data-target="#carousel-preview" data-slide-to="2"></li>
+          </ol>
+
+          <div class="carousel-inner" role="listbox">
+            <div class="item active">
+              <img src="http://placehold.it/900x500" alt="logo-thumb" class="img-responsive">
+            </div>
+
+            <div class="item">
+              <img src="http://placehold.it/900x500" alt="logo-thumb" class="img-responsive">
+            </div>
+
+            <div class="item">
+              <img src="http://placehold.it/900x500" alt="logo-thumb" class="img-responsive">
+            </div>
+          </div>
+
+          <!-- Controls -
+          <a class="left carousel-control" href="#carousel-preview" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#carousel-preview" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+        <!-- Carousel -->
+<!-- Fasilitas part end here -->
 </div>
 <!-- Main container fluid end here -->
 <!-- Latest compiled and minified JavaScript -->
