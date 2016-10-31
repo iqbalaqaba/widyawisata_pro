@@ -4,7 +4,12 @@ This is an widyawisata vocational highschool project. This project started at Oc
 This website is designed by [Iqbal Aqaba] (http://github.com/iqbalaqaba) using [Bootstrap] (http://getbootstrap.com) engine and following rules from [ Google Material Design ] (https://material.google.com/).
 
 ##Progress
-- [x] Drafting
+- [x] ~~Drafting~~
+- [x] Navbar Style <strong> done </strong>
+- [x] Jumbotron Style <strong> done </strong>
+- [x] Short preview about SMK Widya Wisata <strong> done </strong>  
+- [x] Card for visi & misi <strong> done </strong>  
+- [x] Card for profil sekolah <strong> done </strong>  
 - [ ] Testing draft
 - [ ] Restyling Draft
 - [ ] Main design
@@ -20,6 +25,9 @@ This website is designed by [Iqbal Aqaba] (http://github.com/iqbalaqaba) using [
 - [ ] Checking fixed design for bugs & errors
 - [ ] Launching fixed design to main website
 - [ ] Maintain fixed design
+
+## Issues
+- There's a gap between <i> jumbotron </i> and <i> about part </i>.
 
 ## Inspiration
 - [Facebook Brand Website] (http://en.facebookbrand.com/)
