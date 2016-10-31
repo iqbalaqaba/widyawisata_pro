@@ -17,8 +17,8 @@ This website is designed by [Iqbal Aqaba] (http://github.com/iqbalaqaba) using [
 - [ ] Posting
 
 ## Task list 
-- [x] Creating Draft
-- [ ] Recheck draft style for bugs & errors
+- [x] ~~Creating Draft~~
+- [x] Recheck draft style for bugs & errors
 - [ ] Restyling draft
 - [ ] Beta launch draft to website
 - [ ] Migrating draft to fixed design
