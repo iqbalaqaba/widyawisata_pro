@@ -24,7 +24,7 @@ This website is designed by [Iqbal Aqaba] (http://github.com/iqbalaqaba) using [
 ## Task list 
 - [x] ~~Creating Draft~~
 - [x] ~~Recheck draft style for bugs & errors~~
-- [ ] ~~Restyling draft~~
+- [x] ~~Restyling draft~~
 - [ ] Beta launch draft to website
 - [ ] Migrating draft to fixed design
 - [ ] Checking fixed design for bugs & errors
