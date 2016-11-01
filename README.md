@@ -10,7 +10,12 @@ This website is designed by [Iqbal Aqaba] (http://github.com/iqbalaqaba) using [
 - [x] Short preview about SMK Widya Wisata <strong> done </strong>  
 - [x] Card for visi & misi <strong> done </strong>  
 - [x] Card for profil sekolah <strong> done </strong>  
-- [ ] Testing draft
+- [x] Blogspot Action Part <strong> done </strong>  
+- [x] Materi Pelajaran Part <strong> done </strong>  
+- [x] Fasilitas Part <strong> done </strong>  
+- [x] Prestasi, Sosmed and Galeri button Part <strong> done </strong>  
+- [x] Footer Part <strong> done </strong>  
+- [ ] Google Map API
 - [ ] Restyling Draft
 - [ ] Main design
 - [ ] Testing
@@ -18,8 +23,8 @@ This website is designed by [Iqbal Aqaba] (http://github.com/iqbalaqaba) using [
 
 ## Task list 
 - [x] ~~Creating Draft~~
-- [x] Recheck draft style for bugs & errors
-- [ ] Restyling draft
+- [x] ~~Recheck draft style for bugs & errors~~
+- [ ] ~~Restyling draft~~
 - [ ] Beta launch draft to website
 - [ ] Migrating draft to fixed design
 - [ ] Checking fixed design for bugs & errors
@@ -27,7 +32,7 @@ This website is designed by [Iqbal Aqaba] (http://github.com/iqbalaqaba) using [
 - [ ] Maintain fixed design
 
 ## Issues
-- There's a gap between <i> jumbotron </i> and <i> about part </i>. [Issues #2] (https://github.com/iqbalaqaba/widyawisata_pro/issues/2)
+- There's a gap between <i> jumbotron </i> and <i> about part </i>. [Issues #2] (https://github.com/iqbalaqaba/widyawisata_pro/issues/2). <strong> [Fixed](https://github.com/Dogfalo/materialize/issues/384)
 
 ## Inspiration
 - [Facebook Brand Website] (http://en.facebookbrand.com/)
