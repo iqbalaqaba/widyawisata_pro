@@ -8,17 +8,12 @@ body,html{
   font-weight: 300;
 }
 
-* {
-margin: 0;
-padding: 0;
-}
-
 a{
   color:#fafafa;
 }
 
 a:hover{
-  text-decoration: none;
+  text-decoration:none;
   color: #fafafa;
 }
 
@@ -110,7 +105,7 @@ li a{
 
 /* Kompteisi part */
 .kompetisi li{
-  font-size: 20px;`
+  font-size: 20px;
 }
 
 .kompetisi{
@@ -157,6 +152,7 @@ li a{
   transition: 1s;
 }
 */
+
 .button{
   min-height: 150px;
 }
