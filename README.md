@@ -1,6 +1,6 @@
 ## About this project
 
-This is an widyawisata vocational highschool project. This project started at October 20,2016. <br>
+This is an widya wisata vocational highschool website project. This project started at October 20,2016. <br>
 This website is designed by [Iqbal Aqaba] (http://github.com/iqbalaqaba) using [Bootstrap] (http://getbootstrap.com) engine and following rules from [ Google Material Design ] (https://material.google.com/).
 
 ##Progress
