@@ -32,7 +32,8 @@ This website is designed by [Iqbal Aqaba] (http://github.com/iqbalaqaba) using [
 - [ ] Maintain fixed design
 
 ## Issues
-- There's a gap between <i> jumbotron </i> and <i> about part </i>. [Issues #2] (https://github.com/iqbalaqaba/widyawisata_pro/issues/2). <strong> [Fixed](https://github.com/Dogfalo/materialize/issues/384)
+- There's a gap between <i> jumbotron </i> and <i> about part </i>. [Fixed](https://github.com/Dogfalo/materialize/issues/384).
+- <i>Carousel</i> control won't work.
 
 ## Inspiration
 - [Facebook Brand Website] (http://en.facebookbrand.com/)
