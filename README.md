@@ -9,14 +9,14 @@ This website is designed by [Iqbal Aqaba] (http://github.com/iqbalaqaba) using [
 
 ##Progress
 - [x] ~~Drafting~~
-- [x] Navbar Style <strong> done </strong>
+- [x] ~~Navbar Style <strong> done </strong>~~
 - [x] Jumbotron Style <strong> done </strong>
-- [x] Short preview about SMK Widya Wisata <strong> done </strong>  
+- [x] ~~Short preview about SMK Widya Wisata <strong> done </strong>~~
 - [x] Card for visi & misi <strong> done </strong>  
 - [x] Card for profil sekolah <strong> done </strong>  
 - [x] Blogspot Action Part <strong> done </strong>  
-- [x] Materi Pelajaran Part <strong> done </strong>  
-- [x] Fasilitas Part <strong> done </strong>  
+- [x] ~~Materi Pelajaran Part <strong> done </strong>~~
+- [x] ~~Fasilitas Part <strong> done </strong>~~
 - [x] Prestasi, Sosmed and Galeri button Part <strong> done </strong>  
 - [x] Footer Part <strong> done </strong>  
 - [ ] Google Map API
