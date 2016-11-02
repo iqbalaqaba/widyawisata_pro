@@ -4,6 +4,9 @@ This is an widya wisata vocational highschool website project. This project star
 This website is designed by [Iqbal Aqaba] (http://github.com/iqbalaqaba) using [Bootstrap] (http://getbootstrap.com) engine and following rules from [ Google Material Design ] (https://material.google.com/). 
 <br>Live preview available : https://iqbalaqaba.github.io/widyawisata_pro/index2.html
 
+##Color Pallete
+![Color Pallete](https://github.com/iqbalaqaba/widyawisata_pro/blob/gh-pages/color_pallete.jpg)
+
 ##Progress
 - [x] ~~Drafting~~
 - [x] Navbar Style <strong> done </strong>
